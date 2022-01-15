@@ -1,2 +1,2 @@
 # Operating-Systems
-Some algorithms and projects related to Operating System concepts
+This repo contains my implementation of some OS algorithms. I completed these in my Operating Systems course during my undergraduate at VIT.
